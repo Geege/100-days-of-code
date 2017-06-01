@@ -1,4 +1,5 @@
-# Recommended resources
+# List of resources
+(aide-mémoire)
 
 ## Helpful Articles
 1. [Gentle Explanation of 'this keyword in JavaScript](http://rainsoft.io/gentle-explanation-of-this-in-javascript/)
@@ -6,12 +7,6 @@
 ## Projects and Ideas
 1. [FreeCodeCamp](https://www.freecodecamp.com)
 2. [The Odin Project](http://www.theodinproject.com/)
-
-## Other resources
-1. [CodeNewbie - #100DaysOfCode Slack Channel](https://codenewbie.typeform.com/to/uwsWlZ)
-
-## Tools
-1. [cntr](https://github.com/nsgonultas/cntr): A command line day counter to track your progress easily
 
 ## Books (both coding and non-coding)
 
@@ -27,7 +22,5 @@
 3. "Mastering JavaScript" by Ved Antani
 
 ## Contents
-* [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
-* [FAQ](FAQ.md)
+* [Log - click here to see my progress](log.md))
 * [Resources](resources.md)

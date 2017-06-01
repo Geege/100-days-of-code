@@ -16,5 +16,5 @@ June 1, 2017.
 foremost a project for me first, and no one else. 
 
 ## Contents
-* [Log - click here to see my progress](log.md))
+* [Log - click here to see my progress](log.md)
 * [Resources](resources.md)
