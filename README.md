@@ -15,3 +15,6 @@ June 1, 2017.
 4. This is for my own personal accountability and learning. It is first and 
 foremost a project for me first, and no one else. 
 
+## Contents
+* [Log - click here to see my progress](log.md))
+* [Resources](resources.md)
