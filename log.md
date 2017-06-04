@@ -24,7 +24,17 @@ Looking forward to doing more practice, although this was useful.
 
 Tomorrow start again at: Differences in Practice
 
-### Day 3:
+### Day 3: June 3, 2017
+
+**Today's Progress**: 
+Finished Chapter 2 of the book. Still didn't code too much but now have a better understanding of some of the syntactic differences between Python and Js. Just played around with the examples to practice typing up syntax. ~ 1hr
+
+**Thoughts**: 
+I will probably forget some of the stuff I've learnt here, but I guess that it'll come back to me over time or as I need it. Despite it being Saturday and have spent the pm wine tasting, I still got this done :)
+
+Tomorrow start again at: Chapter 3 Reading and Writing Data with Python
+
+### Day 4:
 
 **Today's Progress**: 
 
