@@ -34,7 +34,17 @@ I will probably forget some of the stuff I've learnt here, but I guess that it'l
 
 Tomorrow start again at: Chapter 3 Reading and Writing Data with Python
 
-### Day 4:
+### Day 4: June 4, 2017
+
+**Today's Progress**: 
+Today, worked on writing and reading data using the Python CSV module. 1hr.
+
+**Thoughts**: 
+This is all catching up on some basic knowledge. Looking forward to coding more. But despite it being Sunday, having a headache and spending most of the day in a car, I've showed up. \(• ◡ •)/ 
+
+Tomorrow start again at: JSON
+
+### Day 5:
 
 **Today's Progress**: 
 
