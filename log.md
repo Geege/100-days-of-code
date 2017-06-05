@@ -40,11 +40,21 @@ Tomorrow start again at: Chapter 3 Reading and Writing Data with Python
 Today, worked on writing and reading data using the Python CSV module. 1hr.
 
 **Thoughts**: 
-This is all catching up on some basic knowledge. Looking forward to coding more. But despite it being Sunday, having a headache and spending most of the day in a car, I've showed up. \(• ◡ •)/ 
+This is all catching up on some basic knowledge. Looking forward to coding more. But despite it being Sunday, having a headache and spending most of the day in a car, I've showed up.  \(• ◡ •)/ 
 
 Tomorrow start again at: JSON
 
-### Day 5:
+### Day 5: June 5, 2017
+
+**Today's Progress**: 
+Worked on writing and reading data using the json module for Python. Began reading and writing data using SQLAlchemy. 1hr.
+
+**Thoughts**: 
+I know this stuff is useful, but looking forward to learning things that are more directly related. Worked on this first thing in the morning. Not sure yet if this is the best time to do this yet. It's true that it's now done, but really I'd like to be spending more than an hour right now to whiz past this first part. I might pick up again a bit later if I have time.
+
+Tomorrow start again at: Querying the Database
+
+## Day 6:
 
 **Today's Progress**: 
 
