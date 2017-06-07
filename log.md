@@ -54,6 +54,16 @@ I know this stuff is useful, but looking forward to learning things that are mor
 
 Tomorrow start again at: Querying the Database
 
+## Day 6: June 7, 2017*
+
+**Today's Progress**: 
+Learnt how to query the database with SQLAlchemy and then converted objects returned by the session into Python dicts. Couldn't get the Dataset module working and don't have time to debug right now, so will leave it to tomorrow.
+
+**Thoughts**: 
+I fell off the bandwagon yesterday, unexpected things happened and I didn't have time. I was surprised to feel disappointed and was kind of looking forward to it. But it's ok, cuz I got back on today :) This this early in the am. I wish I had more time, but if I don't do it now, I risk not doing it later as today is pretty full again.
+
+Tomorrow start again at: Easier with Dataset
+
 ## Day 6:
 
 **Today's Progress**: 
